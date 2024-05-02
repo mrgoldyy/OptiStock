@@ -1,0 +1,10 @@
+numpy
+streamlit
+Pillow
+keras
+tensorflow
+keras-tuner
+scikit-learn
+seaborn
+
+
